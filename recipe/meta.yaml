@@ -1,5 +1,5 @@
 {% set name = "bigtree" %}
-{% set version = "0.14.3" %}
+{% set version = "0.14.4" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://github.com/kayjan/{{ name }}/archive/refs/tags/{{ version }}.tar.gz
-  sha256: b9e5390879381acfd3ca9018892f9518c821d47c768bb94adf29d069198ebbdb
+  sha256: 1ab7f41816d9a6fb171ba940b225decde5f70b3fdd9f75e69c8aab5ae1069e4b
 
 build:
   number: 0
