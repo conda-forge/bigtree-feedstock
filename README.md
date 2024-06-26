@@ -7,7 +7,7 @@ Home: https://github.com/kayjan/bigtree
 
 Package license: MIT
 
-Summary: Tree Implementation and Methods for Python, integrated with list, dictionary, pandas and polars DataFrame.
+Summary: Tree Implementation and Methods for Python, integrated with Python list, dictionary, and pandas DataFrame.
 
 Documentation: https://bigtree.readthedocs.io/en/latest/
 
