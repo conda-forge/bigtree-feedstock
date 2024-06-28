@@ -34,7 +34,7 @@ about:
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: Tree Implementation and Methods for Python, integrated with Python list, dictionary, and pandas DataFrame.
+  summary: Tree Implementation and Methods for Python, integrated with list, dictionary, pandas and polars DataFrame.
   doc_url: https://bigtree.readthedocs.io/en/latest/
 
 extra:
